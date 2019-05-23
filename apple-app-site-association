@@ -3,7 +3,7 @@
         "apps": [],
         "details": [{
             "appID": "YM8WGTEJV9.com.cognetivity2.home,
-            "paths": [""]
+            "paths": ["*"]
         }]
     }
 }
